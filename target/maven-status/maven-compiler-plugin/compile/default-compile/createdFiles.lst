@@ -1,0 +1,9 @@
+com\scratchgame\Config$StandardSymbolEntry.class
+com\scratchgame\GameEngine.class
+com\scratchgame\Config$Symbol.class
+com\scratchgame\Config$BonusSymbols.class
+com\scratchgame\ConfigLoader.class
+com\scratchgame\Config$WinCombination.class
+com\scratchgame\Config$Probabilities.class
+com\scratchgame\Config.class
+com\scratchgame\Main.class
